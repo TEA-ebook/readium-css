@@ -278,7 +278,7 @@ math {
 
 :root {
   --RS__backgroundColor: #FFFFFF;
-  --RS__textColor: #121212;
+  --RS__textColor: #383838;
 
   /* This can be customized but initial will re-use default value of the browser */
   --RS__selectionBackgroundColor: #b4d8fe;
