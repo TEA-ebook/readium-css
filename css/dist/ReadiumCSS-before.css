@@ -327,6 +327,27 @@ math {
     url("fonts/iAWriterDuospace-Regular.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Faustina";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/Faustina-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/Merriweather-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/PTSans-Regular.ttf") format("truetype");
+}
+
 /* If you have different weights/styles,
    use `font-weight` and `font-style`,
    not prefixes in the font-family name,
