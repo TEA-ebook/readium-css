@@ -529,7 +529,8 @@ body {
    Repo: https://github.com/readium/readium-css */
 
 :root[style*="--USER__fontSize"] {
-  font-size: var(--USER__fontSize) !important;
+  /* font-size: var(--USER__fontSize) !important; */
+  -webkit-text-size-adjust: var(--USER__fontSize) !important;
 }
 
 /* Readium CSS
